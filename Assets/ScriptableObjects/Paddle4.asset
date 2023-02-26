@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841131439f437a94ca89da9a56e203eb, type: 3}
+  m_Name: Paddle4
+  m_EditorClassIdentifier: 
+  id: Paddle4
+  icon: {fileID: 21300000, guid: 66f8480abfab0054ca61d4cccf07f632, type: 3}
+  price: 100
+  prefab: {fileID: 3937425190716271839, guid: 2087f7892f0039f428597ec9057935ab, type: 3}
+  itemType: 1
+  itemState: 0
