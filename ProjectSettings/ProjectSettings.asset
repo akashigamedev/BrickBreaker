@@ -42,8 +42,8 @@ PlayerSettings:
   m_SplashScreenLogos: []
   m_VirtualRealitySplashScreen: {fileID: 0}
   m_HolographicTrackingLossScreen: {fileID: 0}
-  defaultScreenWidth: 541
-  defaultScreenHeight: 960
+  defaultScreenWidth: 400
+  defaultScreenHeight: 600
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
@@ -80,9 +80,9 @@ PlayerSettings:
   submitAnalytics: 1
   usePlayerLog: 1
   bakeCollisionMeshes: 0
-  forceSingleInstance: 0
+  forceSingleInstance: 1
   useFlipModelSwapchain: 1
-  resizableWindow: 0
+  resizableWindow: 1
   useMacAppStoreValidation: 0
   macAppStoreCategory: public.app-category.games
   gpuSkinning: 1
@@ -262,7 +262,7 @@ PlayerSettings:
   - m_BuildTarget: Standalone
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 0}
+      m_Icon: {fileID: 2800000, guid: 7c5c44cddd9eed2419858435a82b7f4b, type: 3}
       m_Width: 1024
       m_Height: 1024
       m_Kind: 0
@@ -282,7 +282,7 @@ PlayerSettings:
       m_Height: 128
       m_Kind: 0
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 8cb76ccd37783b94f93063d8a864076b, type: 3}
+      m_Icon: {fileID: 2800000, guid: 7c5c44cddd9eed2419858435a82b7f4b, type: 3}
       m_Width: 64
       m_Height: 64
       m_Kind: 0
@@ -304,7 +304,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 8cb76ccd37783b94f93063d8a864076b, type: 3}
+      m_Icon: {fileID: 2800000, guid: 7c5c44cddd9eed2419858435a82b7f4b, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
